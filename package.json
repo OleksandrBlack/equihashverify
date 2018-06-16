@@ -1,6 +1,6 @@
 {
   "name": "equihashverify",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "function to check whether an Equihash solution is valid",
   "main": "equihashverify",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoinz-project/equihashverify"
+    "url": "https://github.com/OleksandrBlack/equihashverify"
   },
   "keywords": [
     "zencash"
@@ -17,14 +17,13 @@
   "author": "Joseph Nicholas R. Alcantara",
   "contributors": [
     "Alberto Garoffolo",
-    "cronic",
-    "LitecoinZ"
+    "cronic"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/litecoinz-project/equihashverify/issues"
+    "url": "https://github.com/OleksandrBlack/equihashverify/issues"
   },
-  "homepage": "https://github.com/litecoinz-project/equihashverify",
+  "homepage": "https://github.com/OleksandrBlack/equihashverify",
   "dependencies": {
     "bindings": "*",
     "libsodium": "^0.7.3",
